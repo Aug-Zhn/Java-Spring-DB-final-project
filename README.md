@@ -1,12 +1,8 @@
 # Java Spring DB Final Project
 
-Database class final project using Java and Spring Framework with PostgreSQL.
-
-## 📋 Description
-
 This is a final project for a database class that demonstrates the integration of a Java Spring application with a PostgreSQL database.
 
-## 🛠️ Technologies
+## Technologies
 
 - **Java** - Main programming language (86.8%)
 - **Spring Framework** - Backend framework
@@ -14,7 +10,7 @@ This is a final project for a database class that demonstrates the integration o
 
 
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Java 17 or higher
@@ -43,6 +39,6 @@ This is a final project for a database class that demonstrates the integration o
    mvn spring-boot:run 
    ```
 
-📝 License
+License
 
 This project is for educational purposes.
