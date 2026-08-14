@@ -21,7 +21,7 @@ This is a final project for a database class that demonstrates the integration o
 
 1. Clone the repository:
    ```bash
-   git clone git@github.com:/Java-Spring-DB-final-project.git
+   git clone git@github.com:Aug-Zhn/Java-Spring-DB-final-project.git
    cd Java-Spring-DB-final-project 
    ```
 
